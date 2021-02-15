@@ -1,3 +1,16 @@
+# epwshiftr 0.1.2
+
+## New features
+
+* The type of morphing methods can be specified using the newly added `methods`
+  argument in `morphing_epw()`.
+
+## Bug fixes
+
+* `esgf_query()` can accept `NULL` `resolution` argument (#12).
+* `load_cimp6_index()` can be correctly load local CMIP6 output index file when
+  `force` is `TRUE` (#8).
+
 # epwshiftr 0.1.1
 
 ## Bug fixes

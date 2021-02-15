@@ -1,6 +1,6 @@
 Package: epwshiftr
 Title: Create Future 'EnergyPlus' Weather Files using 'CMIP6' Data
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Hongyuan",
            family = "Jia",
@@ -32,9 +32,9 @@ RoxygenNote: 7.1.1
 Collate: 'coord.R' 'utils.R' 'epwshiftr-package.R' 'esgf.R' 'morph.R'
         'netcdf.R'
 NeedsCompilation: no
-Packaged: 2020-08-11 05:22:31 UTC; hongyuanjia
+Packaged: 2021-02-13 03:16:38 UTC; hongy
 Author: Hongyuan Jia [aut, cre] (<https://orcid.org/0000-0002-0075-8183>),
   Adrian Chong [aut] (<https://orcid.org/0000-0002-9486-4728>)
 Maintainer: Hongyuan Jia <hongyuan.jia@bears-berkeley.sg>
 Repository: CRAN
-Date/Publication: 2020-08-11 05:40:03 UTC
+Date/Publication: 2021-02-15 15:10:02 UTC
