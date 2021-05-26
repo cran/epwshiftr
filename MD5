@@ -1,8 +1,8 @@
-e6f3ccc6574a9eec1735eda79be1b9e6 *DESCRIPTION
+219c846eca09e31c33b787418c94b1bf *DESCRIPTION
 7fe8a93c5990f4a5800c04972d198281 *LICENSE
 d25892807bba2d8d5c60df59e4408312 *NAMESPACE
-767260085d91f0530ed8b5633dd35ea2 *NEWS.md
-7b1865d5fccb696b0cdbf9cc2cf42f5b *R/coord.R
+b99ace3dffe7117fb4a8b42e05cd0d81 *NEWS.md
+8313f6cad0c56c868dd57d261b865ebf *R/coord.R
 80e3859c5ba812bf241c57659971f80f *R/epwshiftr-package.R
 bc84b9f4a7eb6e048f2399e5026bc27f *R/esgf.R
 6fc46c3e7cee53691a07029851fe92bd *R/morph.R
@@ -11,7 +11,7 @@ bc84b9f4a7eb6e048f2399e5026bc27f *R/esgf.R
 5c3f58d2c4bdb669288c32977880c976 *README.md
 a29c35e8b9c6c547d5e8f477d8b5b001 *man/epwshiftr-package.Rd
 5daa9470703132cdb34affd1c2b2e16f *man/esgf_query.Rd
-f9d99ac511344063cc3fae48790b7a9b *man/extract_data.Rd
+e03b0ceace3886838d37b18df6b25dd2 *man/extract_data.Rd
 51c8ad2fd29f42a21c23fce621c79c8a *man/figures/logo.svg
 faae74b2f5e64eace9da2dda756c331e *man/future_epw.Rd
 6a6d1c3ae999e22a2322c35a28c00842 *man/get_data_dir.Rd

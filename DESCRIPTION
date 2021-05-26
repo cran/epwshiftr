@@ -1,11 +1,11 @@
 Package: epwshiftr
 Title: Create Future 'EnergyPlus' Weather Files using 'CMIP6' Data
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: c(
     person(given = "Hongyuan",
            family = "Jia",
            role = c("aut", "cre"),
-           email = "hongyuan.jia@bears-berkeley.sg",
+           email = "hongyuanjia@outlook.com",
            comment = c(ORCID = "0000-0002-0075-8183")),
     person(given = "Adrian",
            family = "Chong",
@@ -25,16 +25,15 @@ Imports: checkmate, data.table (>= 1.12.4), eplusr, future.apply, fst,
 Suggests: testthat, pingr, covr
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
 URL: https://github.com/ideas-lab-nus/epwshiftr
 BugReports: https://github.com/ideas-lab-nus/epwshiftr/issues
 RoxygenNote: 7.1.1
 Collate: 'coord.R' 'utils.R' 'epwshiftr-package.R' 'esgf.R' 'morph.R'
         'netcdf.R'
 NeedsCompilation: no
-Packaged: 2021-02-13 03:16:38 UTC; hongy
+Packaged: 2021-05-26 08:42:13 UTC; hongy
 Author: Hongyuan Jia [aut, cre] (<https://orcid.org/0000-0002-0075-8183>),
   Adrian Chong [aut] (<https://orcid.org/0000-0002-9486-4728>)
-Maintainer: Hongyuan Jia <hongyuan.jia@bears-berkeley.sg>
+Maintainer: Hongyuan Jia <hongyuanjia@outlook.com>
 Repository: CRAN
-Date/Publication: 2021-02-15 15:10:02 UTC
+Date/Publication: 2021-05-26 13:10:02 UTC
